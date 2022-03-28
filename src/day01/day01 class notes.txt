@@ -39,6 +39,7 @@ Topics:
 		char, boolean
 
 
+
 2. Primitive type castings
 		
 		1. implicit casting: casting smaller primitive type to larger (implicitly done)
