@@ -31,14 +31,14 @@ public class CharSequences {
         System.out.println(sb2);
 
 
-
-
     }
 
 
     public synchronized void method1(){
 
+
     }
+
 
 
 
